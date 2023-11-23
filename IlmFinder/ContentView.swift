@@ -32,6 +32,9 @@ struct ContentView: View {
                 MapScaleView()
             }
         }
+        /*VStack {
+            Text("Commented out code to test")
+        }*/
        
         
     }
